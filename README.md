@@ -131,7 +131,6 @@ Please cite the accepted conference paper below. Publication details will be upd
                and Lee, Jin-Hee and Lim, Yongseob},
   booktitle = {2026 IEEE International Conference on Robotics and Automation (ICRA)},
   year      = {2026},
-  note      = {Accepted to ICRA 2026}
 }
 ```
 
