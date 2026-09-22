@@ -14,11 +14,7 @@ Daegu Gyeongbuk Institute of Science &amp; Technology (DGIST)<br>
 <sub>* Corresponding authors</sub>
 </p>
 
-<p>
-<a href="#release-status"><img src="assets/badges/code.svg" alt="Code: in preparation" height="24"></a>
-&nbsp;
-<a href="#release-status"><img src="assets/badges/weights.svg" alt="Weights: in preparation" height="24"></a>
-</p>
+
 
 <p>
 <a href="#overview">Overview</a> &nbsp;·&nbsp;
